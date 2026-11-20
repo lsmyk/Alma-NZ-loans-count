@@ -1,6 +1,6 @@
 # Alma CF Holdings Sorter
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsmyk/Alma-NZ-loans-countAlma-NZ-loans-count/blob/main/sorting_by_numbers_of_OCUL_copies.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lsmyk/Alma-NZ-loans-count/blob/main/sorting_by_numbers_of_OCUL_copies.ipynb)
 
 A Python utility designed to streamline the library weeding and retention process. 
 
